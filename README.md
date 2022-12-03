@@ -1,11 +1,18 @@
-# Express API Starter Project
+# Project Gratitude Journal API
 
-This project includes the packages and babel setup for an express server, and is just meant to make things a little simpler to get up and running with.
+TBD
 
-## Getting started
+## The problem
 
-Install dependencies with `npm install`, then start the server by running `npm run dev`
+TBD
+
+# TECH used:
+
+TBD
 
 ## View it live
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+Backend:
+
+
+Frontend:
